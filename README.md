@@ -1,6 +1,6 @@
 # FlashHAR-X — Real Sensor Recognition with Custom FlashAttention
 
-A college-grade, subject-independent Human Activity Recognition project using the **official 2013 UCI HAR smartphone dataset**, custom Triton FlashAttention-style forward **and** backward kernels, benchmarked against PyTorch SDPA, a CNN baseline, and a feature-based RBF-SVM.
+A subject-independent Human Activity Recognition project using the **official 2013 UCI HAR smartphone dataset**, custom Triton FlashAttention-style forward **and** backward kernels, benchmarked against PyTorch SDPA, a CNN baseline, and a feature-based RBF-SVM.
 
 ## Notebook-first quickstart — WSL Ubuntu + RTX 5070 Ti
 
