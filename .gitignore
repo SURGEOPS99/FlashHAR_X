@@ -1,0 +1,24 @@
+# Local data, checkpoints and training artifacts (model weights live on Hugging Face)
+data/
+artifacts/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.zip
+
+# Secrets and local environments
+.env
+.env.*
+!.env.example
+*.token
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.cache/
+.huggingface/
+.DS_Store

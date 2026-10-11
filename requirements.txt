@@ -1,0 +1,10 @@
+# Install the CUDA PyTorch wheel FIRST, per README. It includes a matching Triton.
+notebook>=7.2
+jupyterlab>=4.3
+ipykernel>=6.29
+numpy>=1.26,<3
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.5
+matplotlib>=3.9
+tqdm>=4.66
